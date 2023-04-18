@@ -1,0 +1,11 @@
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-sarif;
+}
+
+label {
+    padding: 10px 10px;
+    text-align: center;
+}
+
+input {}
